@@ -1,0 +1,54 @@
+body {
+    background-image: url("mars.jpg");
+    height: 100%; 
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+
+
+} 
+
+header {
+    padding: 20px;
+    margin-bottom: 20px;
+    color: black;
+    background: rgba(109, 96, 96, 0.534);
+    width: 100%;
+}
+
+.btn-primary {
+    background: black;
+    border-color: black;
+}
+
+.mission {
+    color: blue;
+    font-weight: 800;
+}
+
+h2 {
+    font-weight: bold;
+    color: blue;
+    
+}
+
+.featured {
+    height: auto;
+    width: 100%;
+    float: left;
+}
+
+.border {
+    border-width: 1px;
+    border-color: lightgray;
+}
+
+.hemispheres {
+    text-align: center;
+}
+
+.caption {
+    font-size: 25px;
+    text-align: center;
+    font-weight: bold;   
+}
